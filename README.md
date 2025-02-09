@@ -25,7 +25,7 @@ This project is a frontend clone of the Netflix homepage and sign-in UI, built u
 ## 🛠️ How to Run Locally
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/yourusername/netflix-clone.git
+   git clone https://github.com/Kabirofficial/Netflix-clone.git
    ```
 2. Open `index.html` in your browser.  
 
